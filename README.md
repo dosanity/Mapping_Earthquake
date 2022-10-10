@@ -11,4 +11,6 @@ The purpose of this project is to visually show the differences between the magn
 
 ## Website Results
 
-#### The deployed webpage is accessible [here]().
+#### The deployed webpage is accessible [here](https://dosanity.github.io/Mapping_Earthquakes/).
+
+The earthquakes are categorized by size and color. The scale of color is between yellow (low magnitude earthquakes) to red (high magnitude earthquakes). Additionally, the higher the magnitude of the earthquake, the larger the diameter of each circle. 
