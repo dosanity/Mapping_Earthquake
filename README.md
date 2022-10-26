@@ -11,9 +11,9 @@ The purpose of this project is to visually show the differences between the magn
 
 ## Website Results
 
-The earthquakes are categorized by size and color. The spectrum of color ranges from yellow (low magnitude earthquakes) to red (high magnitude earthquakes). Additionally, low magnitude earthquakes have a small diameter and high magnitude earthquakes are illustrated with a larger diameter.
+The earthquakes are categorized by size and color. The spectrum of color ranges from yellow (low-magnitude earthquakes) to red (high-magnitude earthquakes). Additionally, low-magnitude earthquakes have a small diameter and high-magnitude earthquakes are illustrated with a larger diameter.
 
-The viewer can interact with the map to show three different views and filter between three layers: 
+The viewer can interact with the map to show three different views and filter between three layers:
 
 | View Options       | Filter Options      |
 | ------------------ | ------------------- |
